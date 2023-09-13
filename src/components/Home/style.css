@@ -1,0 +1,32 @@
+.home{
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #303030;
+    color: #fff;
+}
+
+.tabela{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.tabela-liga{
+width: 300px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.tabela-classificacao{
+width: 300px;
+display: flex;
+align-items: center;
+justify-content: center;   
+}

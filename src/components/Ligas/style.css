@@ -1,0 +1,16 @@
+.liga{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+    text-align: center;
+}
+.liga-div{
+    margin: 20px 0;
+}
+.liga-div:hover{
+    transform: scale(1.1);
+}
+.liga-div > img{
+    width: 250px;
+}
